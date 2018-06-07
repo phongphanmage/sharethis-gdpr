@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Fram_Sharethisgdpr>
+            <version>1.1.0</version>
+        </Fram_Sharethisgdpr>
+    </modules>
+
+    <global>
+        <helpers>
+            <fram_sharethisgdpr>
+                <class>Fram_Sharethisgdpr_Helper</class>
+            </fram_sharethisgdpr>
+        </helpers>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <fram_sharethisgdpr module="Fram_Sharethisgdpr">
+                    <file>fram_sharethisgdpr.xml</file>
+                </fram_sharethisgdpr>
+            </updates>
+        </layout>
+    </frontend>
+</config>

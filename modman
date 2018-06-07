@@ -1,0 +1,5 @@
+app/etc/modules/Fram_Sharethisgdpr.xml    app/etc/modules/Fram_Sharethisgdpr.xml
+app/code/community/Fram/Sharethisgdpr/    app/code/community/Fram/Sharethisgdpr/
+app/design/frontend/base/default/layout/fram_sharethisgdpr.xml  app/design/frontend/base/default/layout/fram_sharethisgdpr.xml
+app/design/frontend/base/default/template/fram_sharethisgdpr/script.phtml   app/design/frontend/base/default/template/fram_sharethisgdpr/script.phtml
+
